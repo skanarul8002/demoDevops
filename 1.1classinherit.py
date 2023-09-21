@@ -21,7 +21,7 @@ print("Circumference of Circle is ",circl_circum)
 print("Surface area of Cylinder ",cylinder_surface)
 print("Volume of Cylinder is ",cylinder_vol)
 
-# class Circle:
+
 #        def __init__(self,r):
 #           self.r=r
 #        def cir_area(self):
