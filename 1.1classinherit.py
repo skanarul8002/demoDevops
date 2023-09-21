@@ -22,7 +22,6 @@ print("Surface area of Cylinder ",cylinder_surface)
 print("Volume of Cylinder is ",cylinder_vol)
 
 
-#        def __init__(self,r):
 #           self.r=r
 #        def cir_area(self):
 #            print(f"Area of Circle is {3.14*math.pow(self.r, 2)}")
